@@ -1,4 +1,9 @@
 # Example
+This project serves as a practical example of implementing Clean Architecture in a Flutter application. It demonstrates how to structure a scalable, maintainable, and testable Flutter project by organising code into clear layers: Presentation, Domain, Data, and Core, with support for shared services.
+
+Each feature or screen is self-contained and follows a vertical slice approach, making it easier to manage complex apps by separating responsibilities. This example includes patterns like Cubit/Bloc for state management, dependency injection, and network error handling, while staying true to the principles of Clean Architecture.
+
+Use this as a reference or starting point for your own projects when applying Clean Architecture in Flutter.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
